@@ -1,0 +1,9 @@
+c:\users\mst\documents\visual studio 2015\Projects\concatenate data\concatenate data\bin\Debug\concatenate data.exe.config
+c:\users\mst\documents\visual studio 2015\Projects\concatenate data\concatenate data\bin\Debug\concatenate data.exe
+c:\users\mst\documents\visual studio 2015\Projects\concatenate data\concatenate data\bin\Debug\concatenate data.pdb
+c:\users\mst\documents\visual studio 2015\Projects\concatenate data\concatenate data\obj\Debug\concatenate data.csprojResolveAssemblyReference.cache
+c:\users\mst\documents\visual studio 2015\Projects\concatenate data\concatenate data\obj\Debug\concatenate_data.Form1.resources
+c:\users\mst\documents\visual studio 2015\Projects\concatenate data\concatenate data\obj\Debug\concatenate_data.Properties.Resources.resources
+c:\users\mst\documents\visual studio 2015\Projects\concatenate data\concatenate data\obj\Debug\concatenate data.csproj.GenerateResource.Cache
+c:\users\mst\documents\visual studio 2015\Projects\concatenate data\concatenate data\obj\Debug\concatenate data.exe
+c:\users\mst\documents\visual studio 2015\Projects\concatenate data\concatenate data\obj\Debug\concatenate data.pdb
